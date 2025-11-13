@@ -8,7 +8,7 @@ spec:
     server: https://kubernetes.default.svc
   source:
     path: docling-serve
-    repoURL: https://github.com/koep/duckling-serve-gitops.git
+    repoURL: https://github.com/koep/docling-serve-gitops.git
     targetRevision: HEAD
   sources: []
   project: default
